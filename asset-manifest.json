@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/innovate4sdsu/static/css/main.0156a314.css",
-    "main.js": "/innovate4sdsu/static/js/main.741e7158.js",
+    "main.js": "/innovate4sdsu/static/js/main.c5fb0b57.js",
     "index.html": "/innovate4sdsu/index.html",
     "main.0156a314.css.map": "/innovate4sdsu/static/css/main.0156a314.css.map",
-    "main.741e7158.js.map": "/innovate4sdsu/static/js/main.741e7158.js.map"
+    "main.c5fb0b57.js.map": "/innovate4sdsu/static/js/main.c5fb0b57.js.map"
   },
   "entrypoints": [
     "static/css/main.0156a314.css",
-    "static/js/main.741e7158.js"
+    "static/js/main.c5fb0b57.js"
   ]
 }
